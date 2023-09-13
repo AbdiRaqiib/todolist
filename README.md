@@ -1,7 +1,8 @@
 
 ToDo List App (JavaScript)
 ToDo List App Screenshot
-![image](https://github.com/Mayhem21/todolist/assets/78593310/95f311cc-598c-4795-a6d5-853586615dbd)
+![New Note](https://github.com/Mayhem21/todolist/assets/78593310/515aba0d-cf55-4ea5-9b09-00957db4d966)
+
 
 
 Introduction
